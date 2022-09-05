@@ -1,58 +1,59 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
-.container{
+/* Header */
+header{
     margin: 0 auto;
-    width: 80%;
+    width: 90%;
     max-width: 90%;
-    height: 100vh;
-    background-color: #eaebef;
+    background-color: #333;
+    display: flex;
+    justify-content: row;
+    align-items: center;
 }
 
-.box{
+header h1{
+    color: blue;
+}
+
+header nav{
+    margin-left: 50px;
+    display: flex;
+}
+
+header nav ul{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
-.book{
-    width: 40px;
+header nav ul li{
+    margin: 0 10px;
+    list-style: none;
 }
 
-.date{
-    background-color: rgba(0, 0, 0, 0.138);
-    margin: 0 auto;
-    width: 105px;
-    font-size: 22px;
-}
-
-.subject{
+header nav ul li a{
+    cursor: pointer;
+    text-decoration: none;
+    padding: 16px;
+    color: aliceblue;
     font-size: 20px;
-    text-transform: capitalize;
 }
 
-.desc{
-    background-color: cornsilk;
+.active{    
+    border-bottom: 2px solid blue;
+}
+
+header nav ul li a:hover{
+    border-bottom: 2px solid blue;
+}
+
+/* Main */
+main{
+    margin: 0 auto;
     width: 90%;
-    margin: 0 auto;
+    max-width: 90%;
 }
 
-article{
-    margin-left: 40px;
-}
-
-.for_img{
-    width: 70%;
-}
-
-caption{
-    margin: 0 auto;
-}
-
-table{
-    width: 60%;
-    border-collapse: collapse;
-    margin: 0 auto;
-}
