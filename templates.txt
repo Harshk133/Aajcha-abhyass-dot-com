@@ -1,0 +1,97 @@
+<!-- *Template -->
+sugare sir subject template
+            <!-- !22/08/2022 -->
+            <div class="main">
+                <div class="template_container">
+                    <div class="info">
+                        <!--content-->
+                    </div>
+                </div>
+                <div class="date">22/08/2022</div>
+                <br>
+                <br>
+                <div class="class-incharge">
+                    <div class="photo"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                            fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                            <path fill-rule="evenodd"
+                                d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z" />
+                        </svg></div>
+                    <div class="name">
+                        <h2><i>Sugare D. D. Sir</i></h2>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="subject-logo"><img src="Img/cpp_logo.png" alt="Image" title="C++ Object Oriented Programming!"></div>
+                <div class="like-logo"><img src="Img/facebook-like-logo-32FAB6926D-seeklogo.com.png" alt="Image" abbr="Like"></div>
+            </div>
+
+Pallod mam subject template
+<!-- *Template -->
+            <!-- !22/08/2022 -->
+            <div class="main">
+                <div class="template_container">
+                    <div class="info">
+                        <h1 class="border-here">(Theory) Information Of Number System:</h1>
+                        <!-- Content -->
+                        
+                    </div>
+                </div>
+                <div class="date">22/08/2022</div>
+                <br>
+                <br>
+                <div class="class-incharge">
+                    <div class="photo"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                            fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                            <path fill-rule="evenodd"
+                                d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z" />
+                        </svg></div>
+                    <div class="name">
+                        <h2><i>Pallod P. G. Mam</i></h2>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="subject-logo"><img src="Img/Capture.PNG" alt="Image" title="Digit Techniques!"></div>
+                <div class="like-logo"><img src="Img/facebook-like-logo-32FAB6926D-seeklogo.com.png" alt="Image" abbr="Like"></div>
+            </div>
+
+
+kazi sir subject template
+<!-- *Template -->
+            <!-- !23/08/2022 -->
+            <div class="main">
+                <div class="template_container">
+                    <div class="info">
+                        <h1 class="border-here">(Theory) Basic Of Computer Graphics:</h1>
+                        <!-- Content -->
+                        
+                    </div>
+                </div>
+                <div class="date">23/08/2022</div>
+                <br>
+                <br>
+                <div class="class-incharge">
+                    <div class="photo"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                            fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+                            <path fill-rule="evenodd"
+                                d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z" />
+                        </svg></div>
+                    <div class="name">
+                        <h2><i>Kazi A. S. M. Sir</i></h2>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="subject-logo"><img src="Img/cgr.PNG" alt="Image" title="Computer Graphics!"></div>
+                <div class="like-logo"><img src="Img/facebook-like-logo-32FAB6926D-seeklogo.com.png" alt="Image" abbr="Like"></div>
+            </div>

@@ -15,7 +15,7 @@ header{
 }
 
 header h1{
-    color: blue;
+    color: white;
 }
 
 header nav{
@@ -37,7 +37,7 @@ header nav ul li{
 header nav ul li a{
     cursor: pointer;
     text-decoration: none;
-    padding: 16px;
+    padding: 11px;
     color: aliceblue;
     font-size: 20px;
 }
@@ -53,7 +53,51 @@ header nav ul li a:hover{
 /* Main */
 main{
     margin: 0 auto;
-    width: 90%;
-    max-width: 90%;
+    width: 100%;
+    /* max-width: 90%; */
 }
 
+.main{
+    box-shadow: 4px 1px 15px -2px black;
+}
+
+main .container{
+    
+    background-color: white;
+    width: 100%;
+}
+
+.template_container{
+    /* min-height: 100vh; */
+    height: 100vh;
+    /* background-color: red; */
+    overflow-y: scroll;
+}
+
+.border-here{
+    /* border: 10px solid purple; */
+    border: 10px solid blue;
+    border-style: dashed;
+}
+
+/* .date{
+    width: 245px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin: 0;
+    float: right;
+} */
+
+.class-incharge{
+    display: flex;
+    float: right;
+}
+
+svg{
+    width: 32px;
+    height: 32px;
+}
+
+.name h2{
+    margin: 2px 10px;
+}
